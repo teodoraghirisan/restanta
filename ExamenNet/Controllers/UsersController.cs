@@ -67,10 +67,10 @@ namespace ExamenNet.Controllers
         ///     Get /users
         ///     {  
         ///        id: 3,
-        ///        firstName = "Bodea",
-        ///        lastName = "Raluca",
-        ///        userName = "raluca",
-        ///        email = "raluca@yahoo.com",
+        ///        firstName = "Milia",
+        ///        lastName = "Teodora",
+        ///        userName = "teodora",
+        ///        email = "teodora@yahoo.com",
         ///        userRole = "regular"
         ///     }
         /// </remarks>
@@ -99,10 +99,10 @@ namespace ExamenNet.Controllers
         ///
         ///     Post /users
         ///     {
-        ///        firstName = "Bodea",
-        ///        lastName = "Raluca",
-        ///        userName = "raluca",
-        ///        email = "raluca@yahoo.com",
+        ///        firstName = "Milia",
+        ///        lastName = "Teodora",
+        ///        userName = "teodora",
+        ///        email = "teodora@yahoo.com",
         ///        userRole = "regular"
         ///     }
         /// </remarks>
@@ -152,10 +152,10 @@ namespace ExamenNet.Controllers
         ///     <remarks>
         ///     Put /users/id
         ///     {
-        ///        firstName = "Bodea",
-        ///        lastName = "Raluca",
-        ///        userName = "raluca",
-        ///        email = "raluca@yahoo.com",
+        ///        firstName = "Milia",
+        ///        lastName = "Teodora",
+        ///        userName = "teodora",
+        ///        email = "teodora@yahoo.com",
         ///        userRole = "regular"
         ///     }
         /// </remarks>
